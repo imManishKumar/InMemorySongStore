@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-06T10:21:12 IST" name="Surefire suite" finished-at="2023-08-06T10:21:12 IST" duration-ms="42">
+    <groups>
+    </groups>
+    <test started-at="2023-08-06T10:21:12 IST" name="Surefire test" finished-at="2023-08-06T10:21:12 IST" duration-ms="42">
+      <class name="songTest">
+        <test-method signature="multiUser()[pri:0, instance:songTest@ca263c2]" started-at="2023-08-06T10:21:12 IST" name="multiUser" finished-at="2023-08-06T10:21:12 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiUser -->
+        <test-method signature="multiUserExceedingCapacity()[pri:0, instance:songTest@ca263c2]" started-at="2023-08-06T10:21:12 IST" name="multiUserExceedingCapacity" finished-at="2023-08-06T10:21:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiUserExceedingCapacity -->
+        <test-method signature="singleUser()[pri:0, instance:songTest@ca263c2]" started-at="2023-08-06T10:21:12 IST" name="singleUser" finished-at="2023-08-06T10:21:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleUser -->
+        <test-method signature="singleUserExceedingCapacity()[pri:0, instance:songTest@ca263c2]" started-at="2023-08-06T10:21:12 IST" name="singleUserExceedingCapacity" finished-at="2023-08-06T10:21:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleUserExceedingCapacity -->
+      </class> <!-- songTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
